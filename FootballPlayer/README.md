@@ -1,2 +1,6 @@
 # FootballPlayer Project
-This folder contains all source code for my FootballPlayer project.
+Demonstrates Java OOP concepts:
+- Abstract class (`FootballPlayer`)
+- Inheritance (`LaLigaPlayer`, `PremierLeaguePlayer`)
+- Method overriding
+- Driver class (`foodballerinfo`) with `main()` method
