@@ -1,2 +1,1 @@
-# Advance_Java
-Collection of my Java projects and assignments (Advance Java, OOP, etc.)
+This repository contains my collection of Java projects and assignments, including OOP practice, Advance Java exercises, and Maven-based applications.
