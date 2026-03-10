@@ -14,12 +14,12 @@ This project is part of the Advance Java tasks. It demonstrates **Object-Oriente
 - **Start**  
   Driver class with `main()` method to run the program.
 
-## ⚙️ How to Run
+## How to Run
 1. Compile all `.java` files inside `com.mycompany.banksystem`.
 2. Run `Start.java`.
 3. The program will print details of the bank, savings account, and fixed account.
 
-## 🖥️ Sample Output
+## Sample Output
 Bank Name: DBBL
 Savings Account Holder: OOP1
 Savings Account Number: 11111111
